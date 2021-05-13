@@ -9,7 +9,7 @@ future==0.18.2
 geographiclib==1.50
 idna==2.9
 pycparser==2.20
-pydantic==1.4
+pydantic==1.6.2
 PySocks==1.7.1
 python-telegram-bot==12.5.1
 requests==2.23.0
